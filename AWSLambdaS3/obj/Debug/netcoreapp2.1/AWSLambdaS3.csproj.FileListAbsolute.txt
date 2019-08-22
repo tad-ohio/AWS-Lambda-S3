@@ -1,0 +1,11 @@
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\bin\Debug\netcoreapp2.1\AWSLambdaS3.deps.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\bin\Debug\netcoreapp2.1\AWSLambdaS3.runtimeconfig.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\bin\Debug\netcoreapp2.1\AWSLambdaS3.runtimeconfig.dev.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\bin\Debug\netcoreapp2.1\AWSLambdaS3.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\bin\Debug\netcoreapp2.1\AWSLambdaS3.pdb
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\obj\Debug\netcoreapp2.1\AWSLambdaS3.csproj.CoreCompileInputs.cache
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\obj\Debug\netcoreapp2.1\AWSLambdaS3.AssemblyInfoInputs.cache
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\obj\Debug\netcoreapp2.1\AWSLambdaS3.AssemblyInfo.cs
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\obj\Debug\netcoreapp2.1\AWSLambdaS3.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\obj\Debug\netcoreapp2.1\AWSLambdaS3.pdb
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3\obj\Debug\netcoreapp2.1\AWSLambdaS3.csprojAssemblyReference.cache

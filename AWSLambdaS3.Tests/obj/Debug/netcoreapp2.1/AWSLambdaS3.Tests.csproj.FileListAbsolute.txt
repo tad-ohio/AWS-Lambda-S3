@@ -1,0 +1,17 @@
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\xunit.runner.visualstudio.dotnetcore.testadapter.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\xunit.runner.reporters.netcoreapp10.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\xunit.runner.utility.netcoreapp10.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\AWSLambdaS3.Tests.deps.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\AWSLambdaS3.Tests.runtimeconfig.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\AWSLambdaS3.Tests.runtimeconfig.dev.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\AWSLambdaS3.Tests.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\AWSLambdaS3.Tests.pdb
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\AWSLambdaS3.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\bin\Debug\netcoreapp2.1\AWSLambdaS3.pdb
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\obj\Debug\netcoreapp2.1\AWSLambdaS3.Tests.csprojAssemblyReference.cache
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\obj\Debug\netcoreapp2.1\AWSLambdaS3.Tests.csproj.CoreCompileInputs.cache
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\obj\Debug\netcoreapp2.1\AWSLambdaS3.Tests.AssemblyInfoInputs.cache
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\obj\Debug\netcoreapp2.1\AWSLambdaS3.Tests.AssemblyInfo.cs
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\obj\Debug\netcoreapp2.1\AWSLambdaS3.Tests.csproj.CopyComplete
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\obj\Debug\netcoreapp2.1\AWSLambdaS3.Tests.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambdaS3.Tests\obj\Debug\netcoreapp2.1\AWSLambdaS3.Tests.pdb

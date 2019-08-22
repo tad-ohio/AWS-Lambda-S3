@@ -1,0 +1,10 @@
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.deps.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.runtimeconfig.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.runtimeconfig.dev.json
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\bin\Debug\netcoreapp2.1\AWSLambda1.pdb
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.csproj.CoreCompileInputs.cache
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.AssemblyInfoInputs.cache
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.AssemblyInfo.cs
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.dll
+C:\Users\382420\source\repos\AWSLambdaS3\AWSLambda1\obj\Debug\netcoreapp2.1\AWSLambda1.pdb
